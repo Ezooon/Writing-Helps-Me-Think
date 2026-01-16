@@ -4,6 +4,7 @@ seoTitle: "Phobonull, it's not each other we should be afraid of!"
 seoDescription: "Phobonull bridges social gaps by fostering productive dialogue and promoting understanding between conflicting groups"
 datePublished: Fri Aug 29 2025 14:49:10 GMT+0000 (Coordinated Universal Time)
 cuid: cmewy7s2g000002il4vw6eo2t
+slug: phobonull
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/xVRIFWOBK3U/upload/a7bdab99eedc93420caaec46b3c0845f.jpeg
 
 ---
